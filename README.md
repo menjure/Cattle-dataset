@@ -6,23 +6,27 @@ Our proposed dataset is big and contains a variety of scenes and lighting condit
 
 ## Data
 The format of the file is as follows：
-   data
-       |__ test
-       |          |__ images
-       |          |__ ground truth
-       |
-       |__ train
-                  |__ images
-                  |__ ground truth
+
+```
+data
+ │  
+ ├─test
+ │   ├─ground_truth
+ │   └─images
+ │
+ └─train
+     ├─ground_truth
+     └─images
+```
 
 ## Citation
 If you use our dataset in your research, please cite with:
 
 ```
-@article{杨武2022基于多尺度残差视觉信息融合的牧场牛只数量估计方法,
-  title={基于多尺度残差视觉信息融合的牧场牛只数量估计方法},
-  author={杨武 and 王颖慧 and 谈耀 and 冯欣},
-  journal={计算机应用研究},
+@article{wu2022mrvnet,
+  title={Cattle counting estimation method based on multi-scale residual visual information fusion},
+  author={Yang Wu，Wang Yinghui，Tan Yao，Feng Xin},
+  journal={Application Research of Computers},
   volume={39},
   number={5},
   pages={5},
