@@ -11,7 +11,7 @@ The format of the file is as follows：
 data
  │  
  ├─test
- │   ├─ground_truth
+ │   ├─ground_truth  // store the mat file of the corresponding image
  │   └─images
  │
  └─train
