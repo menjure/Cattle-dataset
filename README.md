@@ -275,7 +275,6 @@ mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr></tbody></table>
 If you use our dataset in your research, please cite with:
 
 ```
-
 @article{math10203856,
   author = {Zhong, Minyue and Tan, Yao and Li, Jie and Zhang, Hongming and Yu, Siyi},
   title = {Cattle Number Estimation on Smart Pasture Based on Multi-Scale Information Fusion},
