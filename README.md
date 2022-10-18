@@ -275,13 +275,13 @@ mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr></tbody></table>
 If you use our dataset in your research, please cite with:
 
 ```
-@article{wu2022mrvnet,
-  title={Cattle counting estimation method based on multi-scale residual visual information fusion},
-  author={Yang Wu，Wang Yinghui，Tan Yao，Feng Xin},
-  journal={Application Research of Computers},
-  volume={39},
-  number={5},
-  pages={5},
-  year={2022},
-}
+
+@article{math10203856,
+  author = {Zhong, Minyue and Tan, Yao and Li, Jie and Zhang, Hongming and Yu, Siyi},
+  title = {Cattle Number Estimation on Smart Pasture Based on Multi-Scale Information Fusion},
+  journal = {Mathematics},
+  volume = {10},
+  year = {2022},
+  number = {20},
+｝
 ```
