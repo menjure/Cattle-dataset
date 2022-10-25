@@ -1,7 +1,7 @@
 # Cattle-dataset
 
 ## Introduction
-Our proposed dataset is big and contains a variety of scenes and lighting conditions that can better represent the real situation of the pasture. Expressly, We set up smart cameras in several pastures of Yibin and Qinghai. It took five months to monitor the daily life of cattle in different periods, seasons, scenarios and weather conditions to get video data. The intercepted surveillance video is sampled in real-time and then selected. Data with diverse scenes and significant variations in cattle movement were picked into the dataset.
+Our proposed dataset is large and contains a variety of scenes and lighting conditions that can better represent the real situation of the pasture. Expressly, We set up smart cameras in several pastures of Yibin and Qinghai. It took five months to monitor the daily life of cattle in different periods, seasons, scenarios and weather conditions to get video data. The intercepted surveillance video is sampled in real-time and then selected. Data with diverse scenes and significant variations in cattle movement were picked into the dataset.
 
 ## Data
 The format of the file is as follows：
