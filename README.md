@@ -282,5 +282,5 @@ If you use our dataset in your research, please cite with:
   volume = {10},
   year = {2022},
   number = {20},
-｝
+}
 ```
